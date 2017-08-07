@@ -1,4 +1,5 @@
-# Scene-Animation-Solution
-Uma alternativa para evitar o problema de OutOfMemory com Animation Drawable no Android.
+# Scene Animation Solution
+Este exemplo apresenta uma alternativa para evitar OutOfMemoryError com Animation Drawable no Android, baseado em uma questão respondia por Yar no Stack Overflow.
+
 ## Referência
 https://stackoverflow.com/questions/8692328/causing-outofmemoryerror-in-frame-by-frame-animation-in-android
